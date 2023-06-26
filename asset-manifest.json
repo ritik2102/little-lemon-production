@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7f0c374c.css",
+    "main.js": "/static/js/main.769d1e7d.js",
+    "static/js/787.3ecd7fac.chunk.js": "/static/js/787.3ecd7fac.chunk.js",
+    "static/media/greek salad.jpg": "/static/media/greek salad.bed423a1fab5b210e347.jpg",
+    "static/media/restauranfood.jpg": "/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/new-background.jpg": "/static/media/new-background.44f4533274c38d3760f4.jpg",
+    "static/media/person2.jpg": "/static/media/person2.67572fafbd1c53c2c179.jpg",
+    "static/media/person3.jpg": "/static/media/person3.9ec2857767a4fca05a6c.jpg",
+    "static/media/bruchetta.jpg": "/static/media/bruchetta.02f2e13e4c918c6edcb3.jpg",
+    "static/media/person1.jpg": "/static/media/person1.38a0482afea27780906f.jpg",
+    "static/media/food.png": "/static/media/food.4023b2f8b890ba2fce13.png",
+    "index.html": "/index.html",
+    "main.7f0c374c.css.map": "/static/css/main.7f0c374c.css.map",
+    "main.769d1e7d.js.map": "/static/js/main.769d1e7d.js.map",
+    "787.3ecd7fac.chunk.js.map": "/static/js/787.3ecd7fac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f0c374c.css",
+    "static/js/main.769d1e7d.js"
+  ]
+}
